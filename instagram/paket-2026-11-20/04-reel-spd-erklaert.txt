@@ -8,4 +8,8 @@ Quellen: Die Bundeswahlleiterin (Unterlagensammlung, Wahlergebnisse, Repräsenta
 
 PolitikCheck Deutschland zeigt Politik, wie sie in den Originalquellen steht. Ohne Wertung, ohne Wahlempfehlung.
 
+Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
+
 #parteieneinfacherklärt #parteien #bundestagswahl #politik #politikcheck

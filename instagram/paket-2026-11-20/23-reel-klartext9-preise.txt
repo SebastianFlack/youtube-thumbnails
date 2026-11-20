@@ -7,8 +7,11 @@ Wer ist zuständig? Für Preisstabilität die Europäische Zentralbank (Art. 127
 Wo merkst du die Preise am meisten? Positionen vergleichen: politikcheck-deutschland.de/kompass
 
 Gefragt: @bundestag @bundesregierung
-Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
 
 Quellen: Statistisches Bundesamt, PM Nr. 019/2026 und Nr. 382/2026; R+V-Studie 2026; AEU-Vertrag Art. 127.
+
+Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
 
 #inflation #preise #energie #politikcheck #werdeaktiv

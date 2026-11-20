@@ -7,8 +7,11 @@ Wer muss für Wachstum sorgen? Bund und Länder. Ihr Auftrag steht im Gesetz: st
 Und du? Frag nach, bevor du dich ärgerst. Abstimmungen im Bundestag sind öffentlich: politikcheck-deutschland.de/abstimmungen
 
 Gefragt: @bundeskanzler @bundesregierung @bundestag
-Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
 
 Quellen: Eurostat (tec00115), Stand 11.11.2026; Stabilitäts- und Wachstumsgesetz § 1.
+
+Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
 
 #wirtschaft #wachstum #deutschland #eu #politikcheck

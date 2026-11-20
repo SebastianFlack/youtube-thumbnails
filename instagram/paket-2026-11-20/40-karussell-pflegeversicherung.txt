@@ -13,5 +13,7 @@ Quelle: Deutscher Bundestag, hib 961/2026 vom 19.11.2026; Antwort der Bundesregi
 Ohne Wertung, ohne Wahlempfehlung.
 
 Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
 
 #pflege #pflegeversicherung #pflegereform #gesetzentwurf #politikcheck

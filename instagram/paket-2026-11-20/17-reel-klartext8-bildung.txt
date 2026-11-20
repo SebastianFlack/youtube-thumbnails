@@ -10,4 +10,8 @@ Parteien: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
 
 Quelle: IQB-Bildungstrend 2024 (Institut zur Qualitätsentwicklung im Bildungswesen).
 
+Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
+
 #bildung #schule #mathe #iqb #politikcheck

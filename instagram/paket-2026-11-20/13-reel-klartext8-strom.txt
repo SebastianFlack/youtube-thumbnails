@@ -7,8 +7,11 @@ Wer legt die Steuern auf Strom fest? Der Bundestag: Stromsteuer 2,05 Cent pro Ki
 Und du? Strom zahlt jeder. Wer schweigt, wird nicht gehört. Zeichne oder starte eine Petition: politikcheck-deutschland.de/petitionen
 
 Gefragt: @bundestag @bundesregierung
-Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
 
 Quellen: Eurostat (nrg_pc_204); Statistisches Bundesamt, PM Nr. 345 vom 30.09.2026; Stromsteuergesetz § 3; Umsatzsteuergesetz § 12.
+
+Parteien im Bundestag: @cdu @csu @afd.bund @spdde @die_gruenen @dielinke
+Fraktionen: @cducsubt @afdimbundestag @spdbt @gruenebundestag @dielinkebt
+Spitzen: @bundeskanzler @markus.soeder @alice.weidel @larsklingbeil @franziska.brantner @heidireichinnek
 
 #strompreis #energie #stromkosten #eu #politikcheck
